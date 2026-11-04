@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_canvas">#FFF8FAFC</color>
+    <color name="bg_surface">#FFFFFFFF</color>
+    <color name="text_primary">#FF0F172A</color>
+    <color name="text_secondary">#FF334155</color>
+    <color name="brand_primary">#FF1E3A8A</color>
+    <color name="action_primary">#FF1E3A8A</color>
+    <color name="badge_bg">#FFEFF6FF</color>
+    <color name="badge_text">#FF1E3A8A</color>
+    <color name="danger_text">#FFB91C1C</color>
+    <color name="border_subtle">#FFCBD5E1</color>
+</resources>
