@@ -231,7 +231,6 @@ CRUDmahasiswa/
 │   ├── package.json
 │   ├── server.js
 │   ├── .env.example
-│   └── .env (diabaikan git)
 ├── .gitignore
 ├── build.gradle.kts
 ├── settings.gradle.kts
